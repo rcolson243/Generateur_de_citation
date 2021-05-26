@@ -28,7 +28,7 @@ let citations = [
     ["Les gagnants trouvent des moyens, les perdants des excuses…", "F. D. Roosevelt"],
     ["Vous n’êtes jamais trop vieux pour vous fixer de nouveaux buts, ou rendre vos rêves réalité.", "C.S. Lewis"],
     ["Un pessimiste voit la difficulté dans chaque opportunité. Un optimiste voit une opportunité dans chaque difficulté.", "Winston Churchill"],
-     ["Merci à toi astrid", "Raphael Colson"]
+    ["Merci à toi astrid", "Raphael Colson"]
   ];
 
 
